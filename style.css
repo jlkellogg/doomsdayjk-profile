@@ -1,0 +1,17 @@
+.display-4 {
+    text-align: center;
+}
+
+.lead {
+    text-align: center;
+}
+
+.card-img-top {
+    width: 275px;
+    height: 400px;
+    margin: auto;
+}
+
+.row {
+    margin-bottom: 60px;
+}
